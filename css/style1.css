@@ -1,0 +1,17 @@
+.maindiv {
+    width: 960px;
+    height: 600px;
+    background-color: blueviolet;
+}
+
+.insidediv {
+    width: 500px;
+    height: 200px;
+    background-color: rgb(231, 35, 24); 
+}
+
+.outsidediv {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(6, 148, 249); 
+}
